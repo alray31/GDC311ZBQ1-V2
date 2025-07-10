@@ -8,7 +8,7 @@ Ajoute les lignes suivantes dans le fichier `configuration.yaml` de Zigbee2MQTT 
 
 ```yaml
 external_converters:
-  - custom_converters/GDC311ZBQ1-V2.js
+  - external_converters/GDC311ZBQ1-V2.js
 ```
 ### 2. Enregistrer le fichier GDC311ZBQ1-V2.js 
 
